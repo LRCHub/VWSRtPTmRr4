@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Gust of Wind",
+  "base_artist": "Pharrell Williams",
+  "createdAt": "2026-02-27T13:42:40.949062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/01_Gust_of_Wind_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gust of Wind (feat. Daft Punk)",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/02_Gust_of_Wind_(feat._Daft_Punk)_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gust Of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/03_Gust_Of_Wind_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/04_Gust_of_Wind_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Pharrell",
+      "has_synced": true,
+      "path": "select/05_Gust_of_Wind_Pharrell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gust Of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/06_Gust_Of_Wind_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Pharrell Williams, Daft Punk",
+      "has_synced": true,
+      "path": "select/07_Gust_of_Wind_Pharrell_Williams,_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gust Of Wind",
+      "artist": "Pharrell Williams/Daft Punk",
+      "has_synced": true,
+      "path": "select/08_Gust_Of_Wind_Pharrell_Williams_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/09_Gust_of_Wind_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Real Gust of Wind",
+      "artist": "Cemeteries",
+      "has_synced": true,
+      "path": "select/10_A_Real_Gust_of_Wind_Cemeteries.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/11_Gust_of_Wind_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gust of Wind",
+      "artist": "Imagination Movers",
+      "has_synced": true,
+      "path": "select/12_Gust_of_Wind_Imagination_Movers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gust of Wind (Video)",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/13_Gust_of_Wind_(Video)_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gust Of Wind (ft. Daft Punk)",
+      "artist": "Pharrell",
+      "has_synced": true,
+      "path": "select/14_Gust_Of_Wind_(ft._Daft_Punk)_Pharrell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gust Of Wind",
+      "artist": "Pharrell Williams",
+      "has_synced": false,
+      "path": "select/pl_01_Gust_Of_Wind_Pharrell_Williams.txt"
+    }
+  ]
+}
